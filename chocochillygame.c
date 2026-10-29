@@ -9,7 +9,7 @@ int main()
 {
     int p1,p2,chocolate;
     printf("<----------------------------------------------------------------------------------------------->\n");
-    printf("<------------------------------WELCOME TO CHOCOLATE CHILLY GAME--------------------------------->\n");
+    printf("                               WELCOME TO CHOCOLATE-CHILLY-GAME                                  \n");
     printf("<----------------------------------------------------------------------------------------------->\n");
     printf("Enter chocolate: ");
     scanf("%d",&chocolate);
